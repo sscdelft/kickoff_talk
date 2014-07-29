@@ -1,4 +1,4 @@
-kickoff_talk
+Kickoff Talk
 ============
 
 * 10 mins presenting the NEW chapter
